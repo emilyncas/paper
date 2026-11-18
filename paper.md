@@ -1,6 +1,6 @@
 
  Title
-Heatwave analysis at MAQS
+Aircraft measurements of biomass burning aerosols over West Africa
  Author
  Emily Grace Norton
 
