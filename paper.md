@@ -11,3 +11,5 @@ Particle size was measured using a PCASP (Bloggs et al 2004).
 
 Jones et al (1998) conducted several studies in this readio on a continentatl scale 
 THe large uncertainty of 
+ Simulations
+We simulate the evolution of particle sizes as they are transported away from the source region
