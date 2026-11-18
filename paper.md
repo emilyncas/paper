@@ -2,8 +2,8 @@
  Title
 Aircraft measurements and simulations of biomass burning aerosols over West Africa
  Author
- Emily Grace Norton
-
+ Emily Grace Norton, University of Manchester
+ James McGregor, MetOffice 
  Introduction
 We present aircraft measurements from the FAAM aircraft of BBAO over West Africa.
 
