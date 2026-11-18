@@ -1,6 +1,6 @@
 
  Title
-Aircraft measurements of biomass burning aerosols over West Africa
+Aircraft measurements and simulations of biomass burning aerosols over West Africa
  Author
  Emily Grace Norton
 
