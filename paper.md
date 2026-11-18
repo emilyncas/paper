@@ -5,7 +5,7 @@ Heatwave analysis at MAQS
  Emily Grace Norton
 
  Introduction
-We present aircraft measurements of BBAO over West Africa.
+We present aircraft measurements from the FAAM aircraft of BBAO over West Africa.
 
 Particle size was measured using a PCASP (Bloggs et al 2004).
 
